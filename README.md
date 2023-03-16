@@ -52,7 +52,7 @@ Here are some of the extensions I use:
 - `Thunder Client` by Ranga Vadhinemi - allows us to make requests to servers right inside VS Code without needing an external program! Super useful!!!
 - `vscode-icons` by VSCode Icons Team - changes the icons to be more recognizable at a glance in the left-most file explorer pane. Handy, but not necessary.
 
-**Extensions are great! But don't get to trigger happy with them! Some of them can really slow down your computer, or outright make coding harder for you ( i.e. one that always tries to give you the wrong code snippets or autocomplete 😣 ).** They can always be uninstalled just as easily as you installed them, so you're not stuck with one if you don't like it.
+**Extensions are great, but don't get to trigger happy with them! Some of them can really slow down your computer, or outright make coding harder for you ( i.e. one that always tries to give you the wrong code snippets or autocomplete 😣 ).** They can always be uninstalled just as easily as you installed them, so you're not stuck with one if you don't like it.
 
 ## Dev Tools - Your Web Browser's way of helping you make great websites! 🕸️
 
@@ -88,7 +88,7 @@ Here are some of the more common git commands we'll be using for the rest of our
 
 > `git push` - uploads the current **tracked** changes in the repo up to github. 
 
-> `git pull` - used to pull down the repo from github and will update your local files to what's shown on the github website.
+> `git pull` - used to pull down the repo from github and will update your local files to what's shown on the github website, as long as there are no errors.
 
 > `git stash` - save your changes in a location locally that won't be pushed up to github. Used when you don't want to delete changes, but need to pull updates down.
 
