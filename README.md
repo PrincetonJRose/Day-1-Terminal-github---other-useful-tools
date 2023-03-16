@@ -17,6 +17,8 @@ These are some of the more common commands you'll use in the terminal as a softw
 
 > `rm` ( remove ) - used to delete content. **Takes an argument for what to delete ( i.e. `rm MyNewFile.txt` )**
 
+> `clear` - will clear the terminal window out. Less clutter. Be aware that your history may disappear!
+
 > `alias` - allows you to create shortcuts and save them in a variable in your terminal configuration file. **Very advanced, don't mess with these to much early on.** Useful as you get more comfortable though!!!
 
 **Another quick note: you can use autocomplete to fill in the names of things when typing into the console using the `Tab` key!!!**
