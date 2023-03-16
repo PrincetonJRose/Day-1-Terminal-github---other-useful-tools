@@ -9,13 +9,13 @@ These are some of the more common commands you'll use in the terminal as a softw
 
 > `ls` ( list ) - will list the contents of the current directory, **You can use `ls -a` to show all files, even hidden ones!**
 
-> `mkdir` ( make directory ) - allows you to make a new directory. **Takes an argument for the name of the new folder ( i.e. `mkdir MyNewFolder` )**
+> `mkdir` ( make directory ) - allows you to make a new directory. Takes an argument for the name of the new folder ( i.e. `mkdir MyNewFolder` )
 
-> `cd` ( change directory ) - used to move to a different directory. **Takes an argument for the name of the directory you want to go down into ( i.e. `cd MyNewFolder` ).**  Use `cd ..` to move up one 'level'. Can be chained with multiple `/` to move through multiple directories at once!
+> `cd` ( change directory ) - used to move to a different directory. Takes an argument for the name of the directory you want to go down into ( i.e. `cd MyNewFolder` ).  Use `cd ..` to move up one 'level'. Can be chained with multiple `/` to move through multiple directories at once! ( i.e. `cd MyFolder1/MyFolder2...` )
 
-> `touch` - will make a new file in the current directory. **Takes an argument for the name of the file ( i.e. `touch MyNewFile.txt` )**
+> `touch` - will make a new file in the current directory. Takes an argument for the name of the file ( i.e. `touch MyNewFile.txt` )
 
-> `rm` ( remove ) - used to delete content. **Takes an argument for what to delete ( i.e. `rm MyNewFile.txt` )**
+> `rm` ( remove ) - used to delete content. Takes an argument for what to delete ( i.e. `rm MyNewFile.txt` )
 
 > `clear` - will clear the terminal window out. Less clutter. Be aware that your history may disappear!
 
